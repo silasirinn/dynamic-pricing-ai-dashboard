@@ -62,7 +62,3 @@ Arka planda kullanılan Random Forest algoritması, detaylı özellik mühendisl
 - **Hold-Out (Eğitim/Test Ayrımı):** Birincil performans kontrolü.
 - **5-Katlı Çapraz Doğrulama (Cross Validation):** Modelin aşırı öğrenmeye (overfitting) düşmediğini ispatlayan tutarlılık testi.
 
-## 🤝 İletişim
-
-Geliştirici: **Sıla Şirin**  
-Bu proje tamamen portfolyo ve eğitim amaçlı oluşturulmuştur. Herhangi bir sorunuz, öneriniz veya iş birliği fikriniz varsa benimle GitHub üzerinden iletişime geçebilirsiniz!
