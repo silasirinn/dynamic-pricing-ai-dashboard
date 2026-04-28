@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.DS_Store
+outputs/charts/*
+outputs/models/*
+!outputs/charts/.gitkeep
+!outputs/models/.gitkeep
+!outputs/models/*.joblib
+*.log
+scratch/
+scratch_generate_nb.py
